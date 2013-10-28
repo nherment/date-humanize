@@ -1,0 +1,28 @@
+{
+  "name": "date-humanize",
+  "version": "0.1.0",
+  "description": "Humanize javascript dates eg: 'Monday 23rd'",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nherment/date-humanize"
+  },
+  "keywords": [
+    "javascript",
+    "front-end",
+    "date",
+    "readable",
+    "human"
+  ],
+  "author": "Nicolas Herment <nherment@arkhaios.net>",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/nherment/date-humanize/issues"
+  }
+}
